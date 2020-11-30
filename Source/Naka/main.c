@@ -997,7 +997,7 @@ void CreateContainerPackedUnit(
 
 #define UACME_KEY_SIZE      32
 #define UACME_MAX_UNITS     12 //set actual number from github version
-#define AKAGI_XOR_KEY       'naka'
+#define AKAGI_XOR_KEY       'G@mA'
 
 typedef struct _DCK_HEADER {
     DWORD Id;

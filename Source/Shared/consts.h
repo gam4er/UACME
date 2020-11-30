@@ -21,7 +21,7 @@
 *******************************************************************************/
 #pragma once
 
-#define AKAGI_XOR_KEY               'naka'
+#define AKAGI_XOR_KEY               'G@mA'
 #define AKAGI_XOR_KEY2              ' pta'
 
 //"Usage: Akagi.exe [Method] [OptionalParamToExecute]"
